@@ -1,0 +1,7 @@
+1    FirstName: Jasmine  |LastName: Ford  |Adress: Street12beverly  |PhoneNumb: +2145632177  |Category: AD
+2    FirstName: Melanie  |LastName: rubik  |Adress: 103streetsunslight  |PhoneNumb: +2145632178  |Category: K
+3    FirstName: Julia  |LastName: Lorentz  |Adress: Street42beverly  |PhoneNumb: +1213546214  |Category: AD
+4    FirstName: mimosa  |LastName: pasneck  |Adress: Lowkey101street  |PhoneNumb: +34125864123  |Category: AD
+5    FirstName: miro  |LastName: saruta  |Adress: westshrine  |PhoneNumb: +78241521  |Category: AD
+6    FirstName: Henry  |LastName: Patrick  |Adress: lopez542  |PhoneNumb: +558454487  |Category: A
+7    FirstName: Murphy  |LastName: Simon  |Adress: 101Shrine  |PhoneNumb: +1423642521  |Category: K

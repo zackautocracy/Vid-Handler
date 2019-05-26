@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("File:struct.h","struct.h");NDSummary.OnSummaryLoaded("File:struct.h",[["C/C++","C"]],[["Structs","Struct"]],[[2,0,0,"Member_infos","Member_infos"],[3,0,0,"Member_credentials","Member_credentials"],[4,0,0,"Film_Infos","Film_Infos"],[5,0,0,"Borrowing_Infos","Borrowing_Infos"]]);

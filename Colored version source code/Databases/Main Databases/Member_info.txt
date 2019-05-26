@@ -1,0 +1,7 @@
+1    FirstName: Jasmine  |LastName: Ford  |Adress: Street12beverly  |PhoneNumb: +2145632177  |Category: AD
+2    FirstName: Melanie  |LastName: rubik  |Adress: 103streetsunslight  |PhoneNumb: +2145632178  |Category: K
+3    FirstName: Julia  |LastName: Lorentz  |Adress: Street42beverly  |PhoneNumb: +1213546214  |Category: AD
+4    FirstName: mimosa  |LastName: pasneck  |Adress: Lowkey101street  |PhoneNumb: +34125864123  |Category: AD
+5    FirstName: Rania  |LastName: Frikich  |Adress: myheart  |PhoneNumb: +524526652  |Category: AD
+6    FirstName: Rania  |LastName: Frikich  |Adress: myhearttt  |PhoneNumb: +64225555  |Category: AD
+7    FirstName: Frikich  |LastName: Rania  |Adress: mysoul  |PhoneNumb: +58445656  |Category: AD

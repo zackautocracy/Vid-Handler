@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("bor",["Function","Struct"],[["Borrow_Return_Film",,[[,,,,0,"File:Loan_Functions.h:Borrow_Return_Film"]]],["Borrowers_Record",,[[,,,,0,"File:Support_Functions.h:Borrowers_Record"]]],["Borrowing_Infos",,[[,,,,1,"File:struct.h:Borrowing_Infos","CClass:Borrowing_Infos"]]]]);

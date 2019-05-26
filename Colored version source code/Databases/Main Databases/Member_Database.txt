@@ -1,0 +1,7 @@
+1    Name: Steph   Password: uctwvqdk   Status: ADHERANT
+2    Name: Hachirama   Password: wirny545   Status: ADMIN
+3    Name: Lulu   Password: edfnooxox   Status: ADHERANT
+4    Name: Zack   Password: mpsziverme   Status: ADMIN
+5    Name: Rania   Password: knqxgtcpkc   Status: ADHERANT
+6    Name: amir   Password: blbsjb   Status: ADMIN
+7    Name: ziad   Password: |cmctkc   Status: ADMIN

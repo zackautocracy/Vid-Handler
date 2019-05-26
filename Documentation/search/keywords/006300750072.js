@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("cur",["Function"],[["Current_Date",,[[,,,,0,"File:randomize.h:Current_Date"]]]]);

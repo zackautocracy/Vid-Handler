@@ -1,0 +1,1 @@
+NDSummary.OnToolTipsLoaded("CClass:Borrowing_Infos",{});

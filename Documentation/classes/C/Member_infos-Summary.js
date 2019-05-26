@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CClass:Member_infos","Member_infos");NDSummary.OnSummaryLoaded("CClass:Member_infos",[["C/C++","C"]],[["Structs","Struct"]],[[2,0,0,"Member_infos"]]);

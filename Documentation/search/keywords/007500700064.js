@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("upd",["Function"],[["Update_Borrowing_Infos",,[[,,,,0,"File:Support_Functions.h:Update_Borrowing_Infos"]]]]);

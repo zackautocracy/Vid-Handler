@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("del",["Function"],[["delay",,[[,,,,0,"File:randomize.h:delay"]]],["DELETE_LINE",,[[,,,,0,"File:filelib.h:DELETE_LINE"]]]]);

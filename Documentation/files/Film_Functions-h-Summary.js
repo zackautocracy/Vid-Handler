@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("File:Film_Functions.h","Film_Functions.h");NDSummary.OnSummaryLoaded("File:Film_Functions.h",[["C/C++","C"]],[["Functions","Function"],["Groups","Group"]],[[35,0,1,"Functions","Functions"],[46,0,0,"Add_Film","Add_Film"],[48,0,0,"Modify_Or_Delete_Film","Modify_Or_Delete_Film"],[49,0,0,"Display_Film_By_Type","Display_Film_By_Type"]]);
