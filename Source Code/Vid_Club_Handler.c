@@ -17,7 +17,7 @@ Borrowing_Infos LOAN = { .Borrowed_Numb = 0 };
 
 //TODO:Random selection of FILMs/Top 10/By type
 //TODO:Rebuild the program
-//BUG:If the admin changes the infos of a member (privilege escalation).
+
 
 int main()
 {
